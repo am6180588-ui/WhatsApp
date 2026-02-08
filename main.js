@@ -155,7 +155,7 @@ const channelInfo = {
         forwardingScore: 1,
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
-            newsletterJid: '120363279142099991@newsletter',
+            newsletterJid: '120363369769257255@nnewsletter,
             newsletterName: 'MARCO MĀLÏK',
             serverMessageId: -1
         }
